@@ -36,7 +36,7 @@ A travel-inspired gallery featuring:
 - CSS Filter
 
 ## 📂 Project Structure
-
+```
 Bella Italia/
 │
 ├── images/
@@ -53,7 +53,7 @@ Bella Italia/
 ├── index.html
 ├── style.css
 └── README.md
-
+```
 
 ## 🎯 Future Improvements
 
